@@ -1,0 +1,25 @@
+{
+  "name": "codem",
+  "version": "1.0.0",
+  "description": "bitcoffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nattlast/bitcoffeeCoin.git"
+  },
+  "keywords": [
+    "bitcoffee"
+  ],
+  "author": "bitcoffee",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nattlast/bitcoffeeCoin/issues"
+  },
+  "homepage": "https://github.com/nattlast/bitcoffeeCoin#readme",
+  "dependencies": {
+    "ethers": "^3.0.17"
+  }
+}

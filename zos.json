@@ -1,0 +1,8 @@
+{
+  "name": "codem",
+  "version": "0.1.0",
+  "contracts": {
+    "BitcoffeeCoin": "BitcoffeeCoin",
+    "BoutChannel": "BoutChannel"
+  }
+}
